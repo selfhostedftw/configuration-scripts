@@ -10,3 +10,4 @@ This script works between a Digital Ocean Droplet and Cloudflare. After you have
 
 `curl -sSL https://raw.githubusercontent.com/selfhostedofficial/configuration-scripts/master/setup-watchtower-with-slack-hooks.sh | bash`
 
+### Bash Alias
